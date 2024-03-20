@@ -2,7 +2,7 @@
 
 ## Solutions to common problems
 
-- [Share Screen in Discord on Ubuntu](https://github.com/devops-in-wonderland/share-screen-discord-ubuntu/blob/main/README.md)
+- [Share Screen in Discord on Ubuntu](https://github.com/devops-in-wonderland/.github/blob/main/docs/common-issues/README.md#unable-to-share-screen-in-discord-on-ubuntu)
 
 <!--
 
